@@ -15,11 +15,13 @@ If you want to run this project specifically and in a browser, go to: https://ww
 
 ## Windows/MacOS/Linux
 if you want to run it natively (like any python project), first make sure you have downloaded python, then go to your Terminal/CMD/Konsole (it's all the same thing, just different names), type:
+
 `
 cd "exact/location/of/python/files/"
 `
 
 then type:
+
 `
 python main.py
 `
